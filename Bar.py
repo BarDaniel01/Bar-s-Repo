@@ -17,7 +17,7 @@ def chocolate_maker(x, y, z):
             print ("GOOD");
         else:
             print("imposible")
-
+print ("bar")
 chocolate_maker(INPUT_USER_BIG, INPUT_USER_SMALL, INPUT_USER_RAW)
 
 
